@@ -9,7 +9,7 @@ def main():
     ########################################
     """
     for i in range(2,N):
-        num = result[-1]
+        num = result[-1] + result[-2]
     
     
     
