@@ -9,11 +9,9 @@ def main():
     ########################################
     """
     for i in range(2,N):
-        num = result[-1] + result[-2]
-    
-    
-    
-    
+        followingNum = result[-1] + result[-2]
+        result.append(followingNum)
+    print(result)
     """
     ########################################
     """
