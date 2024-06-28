@@ -8,7 +8,8 @@ def main():
     """
     ########################################
     """
-    for i in range
+    for i in range(2,N):
+        num = result[-1]
     
     
     
